@@ -13,4 +13,4 @@ https://mekanbul-1.melike1334.repl.co/api/mekanlar/6378f37ffb94220976ae61bc
 ### 3. Bir Mekana Ait Belirli Bir Yorumu Getir
 
 https://mekanbul-1.melike1334.repl.co/api/mekanlar/6378f37ffb94220976ae61bc/yorumlar/637a482d9560d18d263fd3f2
-![3](/photos/yorumlar.png)
+![3](/images/yorumlar.png)
