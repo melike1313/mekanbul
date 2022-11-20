@@ -1,4 +1,5 @@
 var mongoose=require("mongoose");
+
 var saatSema = new mongoose.Schema({
     gunler:{type:String,required:true},
     acilis:String,
