@@ -9,8 +9,8 @@
 [3. Bir Mekana Ait Belirli Bir Yorumu Getir](https://mekanbul5.melike1334.repl.co/api/mekanlar/6378f37ffb94220976ae61bc/yorumlar/637a482d9560d18d263fd3f2)
 ![3](/images/yorumlar.png)
 
-[4. Thunder API]
+# 4. Thunder API
 ![4](/images/thunderAPI.png)
 
-[5. test.js]
+# 5. test.js
 ![5](/images/test.png)
