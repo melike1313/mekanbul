@@ -3,8 +3,8 @@ const axios = require("axios");
 
 var apiSecenekleri = {
   // sunucu: "http://localhost:3000",
-  //sunucu: "https://mekanbul.yildirayabdioglu.repl.co",
- // apiYolu: "/api/mekanlar/",
+  sunucu: "https://mekanbul-1.melike1334.repl.co",
+ apiYolu: "/api/mekanlar/",
 };
 
 var mesafeyiFormatla = (mesafe) => {
