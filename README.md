@@ -1,5 +1,5 @@
 
-[Yakındaki Mekanları Listele-Replit Linki](https://mekanbul.melike1334.repl.co/?enlem=37.8&boylam=30.5)
+[Yakındaki Mekanları Listele-Replit Linki-odev8](https://mekanbul.melike1334.repl.co/?enlem=37.8&boylam=30.5)
 ![1](/images/mekan.png)
 # MekanBul REST API
 
